@@ -1,4 +1,4 @@
-# cs_study :sparkles:
+# 18반 싸피 여고 cs_study :sparkles:
 
 ## :file_folder: 주제 대분류
 
